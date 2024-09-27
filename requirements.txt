@@ -1,0 +1,8 @@
+pandas==2.0.3
+streamlit==1.37.0
+plotly==5.22.0
+mysql-connector-python==8.0.33
+sqlalchemy==2.0.35
+schedule==1.2.2
+pymysql==1.1.1
+Pillow==10.0.0
